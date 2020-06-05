@@ -4,7 +4,7 @@ import { AppService } from './../../app.service';
 
 import { Router } from '@angular/router';
 import { Cookie } from 'ng2-cookies/ng2-cookies';
-import {FirstCharComponent} from'../../shared/first-char/first-char.component'
+//import {FirstCharComponent} from'../../shared/first-char/first-char.component'
 //import {ChatMessage} from './chat'
 
 import { CheckUser } from 'CheckUser';
